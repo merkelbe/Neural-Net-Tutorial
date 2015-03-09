@@ -1,0 +1,12 @@
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\Content\hovercraft.xnb
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\Content\rubberchicken.xnb
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\NNetTut.exe
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\NNetTut.pdb
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\obj\x86\Debug\NNetTut.csprojResolveAssemblyReference.cache
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\obj\x86\Debug\NNetTut.exe
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\obj\x86\Debug\NNetTut.pdb
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\Content\tank.xnb
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\Content\mine.xnb
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\Content\GameThumbnail.xnb
+C:\Users\Merkel\Desktop\NNetTut\NNetTut\NNetTut\bin\x86\Debug\Content\Arial.xnb

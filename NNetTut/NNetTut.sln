@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNetTut", "NNetTut\NNetTut\NNetTut.csproj", "{E014049B-3E81-40A7-9EC1-7049C308BB38}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "NNetTutContent", "NNetTut\NNetTutContent\NNetTutContent.contentproj", "{3BA4B442-A1AE-44A1-82C4-1AA2A359E458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E014049B-3E81-40A7-9EC1-7049C308BB38}.Debug|x86.ActiveCfg = Debug|x86
+		{E014049B-3E81-40A7-9EC1-7049C308BB38}.Debug|x86.Build.0 = Debug|x86
+		{E014049B-3E81-40A7-9EC1-7049C308BB38}.Release|x86.ActiveCfg = Release|x86
+		{E014049B-3E81-40A7-9EC1-7049C308BB38}.Release|x86.Build.0 = Release|x86
+		{3BA4B442-A1AE-44A1-82C4-1AA2A359E458}.Debug|x86.ActiveCfg = Debug|x86
+		{3BA4B442-A1AE-44A1-82C4-1AA2A359E458}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
